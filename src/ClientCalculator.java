@@ -79,8 +79,9 @@ public class ClientCalculator implements ActionListener {
 		});
 	}
 
+
 	/**
-	 * Create the application.
+	 * initalize the application.
 	 */
 	public ClientCalculator() {
 		initialize();
